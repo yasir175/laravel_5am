@@ -373,7 +373,7 @@
 
             .dark\:border-gray-700 {
                 --border-opacity: 1;
-                border-color: #4a5568;
+                border-color: ;
                 border-color: rgba(74, 85, 104, var(--border-opacity))
             }
 
